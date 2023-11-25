@@ -1,0 +1,7 @@
+﻿BEGIN
+    DECLARE x,y
+	
+	FOR x = 2 TO -10 DO
+		PRINT x
+	ENDFOR
+END
